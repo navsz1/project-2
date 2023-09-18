@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Monday Workout",
+        "content": "Start your week with a full-body workout. Include exercises like squats, push-ups, lunges, and planks. Aim for 3 sets of 10 reps for each exercise.",
+        "author_id": "1"
+    },
+    {
+        "title": "Tuesday Workout",
+        "content": "Focus on cardio today. Go for a 30-minute run or a brisk walk. Alternatively, you can do a cycling or swimming session for cardiovascular fitness.",
+        "author_id": "1"
+    },
+    {
+        "title": "Wednesday Workout",
+        "content": "Work on your upper body strength. Incorporate exercises like bench press, dumbbell curls, and overhead shoulder presses. Perform 3 sets of 10 reps for each exercise.",
+        "author_id": "1"
+    },
+    {
+        "title": "Thursday Workout",
+        "content": "It's time for a rest day to allow your body to recover. Consider some light stretching or yoga to maintain flexibility and reduce muscle soreness.",
+        "author_id": "1"
+    },
+    {
+        "title": "Friday Workout",
+        "content": "Engage in a high-intensity interval training (HIIT) session. Combine exercises like burpees, mountain climbers, and jumping jacks for a total body workout.",
+        "author_id": "1"
+    },
+    {
+        "title": "Saturday Workout",
+        "content": "Focus on your core muscles today. Perform exercises such as planks, leg raises, and Russian twists to strengthen your abs. Aim for 3 sets of 15 reps for each exercise.",
+        "author_id": "1"
+    },
+    {
+        "title": "Sunday Workout",
+        "content": "Take a day for active recovery. Go for a leisurely bike ride, hike, or swim to keep your body moving without intense exertion.",
+        "author_id": "1"
+    }
+]

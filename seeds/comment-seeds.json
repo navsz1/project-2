@@ -1,0 +1,47 @@
+[
+    {
+        "comment": "Great post! I learned a lot from it.",
+        "author_id": "2",
+        "post_id": "1"
+    },
+    {
+        "comment": "I have a question about the first point. Can you clarify?",
+        "author_id": "1",
+        "post_id": "1"
+    },
+    {
+        "comment": "Interesting perspective. Thanks for sharing!",
+        "author_id": "2",
+        "post_id": "2"
+    },
+    {
+        "comment": "I completely agree with your points. Well-written!",
+        "author_id": "1",
+        "post_id": "3"
+    },
+    {
+        "comment": "This post has inspired me to take action. Thank you!",
+        "author_id": "2",
+        "post_id": "4"
+    },
+    {
+        "comment": "I had a similar experience. It's reassuring to know I'm not alone.",
+        "author_id": "1",
+        "post_id": "5"
+    },
+    {
+        "comment": "I appreciate the detailed explanations in this post. Very helpful!",
+        "author_id": "2",
+        "post_id": "1"
+    },
+    {
+        "comment":"Great work! I'm looking forward to reading more of your posts.",
+        "author_id": "1",
+        "post_id": "6"
+    },
+    {
+        "comment":"Your workout routine is impressive. I'm going to try it out.",
+        "author_id": "2",
+        "post_id": "7"
+    }
+]
