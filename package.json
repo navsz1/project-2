@@ -1,7 +1,7 @@
 {
   "name": "project-2-starter-code",
   "version": "1.0.0",
-  "description": "A fullstack MVC tech blog using Node.js, Express.js, MySQL, Sequelize, Handlebars.js, and express-session for authentication.",
+  "description": "A fullstack MVC workout planner using Node.js, Express.js, MySQL, Sequelize, Handlebars.js, and express-session for authentication.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,5 +26,6 @@
     "eslint": "^7.32.0",
     "eslint-config-google": "^0.14.0",
     "nodemon": "^2.0.12"
+
 }
 }
